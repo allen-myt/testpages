@@ -218,7 +218,7 @@ body {
 	background-position: 33px -138px;
 }
 /*
- * 回退按钮
+ * å›žé€€æŒ‰é’®
  * author:yll;
  * date  :2013-08-11;
  * */
@@ -255,11 +255,6 @@ body {
     box-shadow: 0 1px 1px #FC7F77 inset;
 }
 
-/*
- * 广告�?
- * author:yll;
- * date  :2013-08-11;
- * */
  .ad {
 	width: 320px;
 	margin:0px auto;
@@ -281,4 +276,46 @@ body {
 .wifi_content h1 {
 	font-size: 15px;
 	margin:5px;
+}
+/*
+ * author:yll;
+ * date  :2013-08-11;
+ * */
+ .suggest {
+ 	font-size: 16px;
+ 	padding: 10px 8px;
+ 	width:240px;
+ 	margin:10px auto;
+ 	border:1px solid gainsboro;
+ 	background: #eee;
+ 	box-shadow: 0 1px 1px #fcfcfc;
+ 	color:#666;
+ }
+.suggest #mobile {
+	height: 20px;
+	width:150px;
+	font-size:1em;
+}
+.suggest textarea {
+	margin-left:70px;
+	width:150px;
+	font-size: 1em;
+	height:5em;
+}
+.suggest .submit , .reset{
+	color:#555;
+	font-size: 14px;
+	height:2em;
+	width:90px;
+	margin-left: 18px;
+	margin-top: 8px;
+	background: #eee;
+	border:1px solid #aaa;
+	cursor: pointer;
+}
+.suggest .submit:hover , .reset:hover{
+	background: #ddd;
+}
+.suggest .submit:active , .reset:active{
+	background: #bbb;
 }
