@@ -217,6 +217,11 @@ body {
 	width: 60px;
 	background-position: 33px -138px;
 }
+/*
+ * 回退按钮
+ * author:yll;
+ * date  :2013-08-11;
+ * */
 .back {
 	z-index: 1000;
 	margin-left: 25px;
@@ -250,4 +255,32 @@ body {
     box-shadow: 0 1px 1px #FC7F77 inset;
 }
 
-/*ad*/
+/*
+ * 广告栏
+ * author:yll;
+ * date  :2013-08-11;
+ * */
+ .ad {
+	width: 320px;
+	height:91px;
+	margin:0px auto;
+}
+.ad img{
+	width: 320px;
+	height: 91px;
+	vertical-align: center;
+	border:0px;
+}
+.wifi_content {
+	color:blue;
+	padding:8px;
+	width:200px;
+	margin:10px auto;
+	border:1px solid gainsboro;
+	background: #eee;
+	box-shadow: 0 1px 1px #fcfcfc;
+}
+.wifi_content h1 {
+	font-size: 15px;
+	margin:5px;
+}
