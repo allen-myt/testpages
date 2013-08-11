@@ -256,18 +256,16 @@ body {
 }
 
 /*
- * 广告栏
+ * 广告�?
  * author:yll;
  * date  :2013-08-11;
  * */
  .ad {
 	width: 320px;
-	height:91px;
 	margin:0px auto;
 }
 .ad img{
 	width: 320px;
-	height: 91px;
 	vertical-align: center;
 	border:0px;
 }
