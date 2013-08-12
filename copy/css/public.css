@@ -110,8 +110,15 @@ body {
 	line-height: 40px;
 	color: #fff;
 	font-size: 14px;
+	
+	/*
 	background: #e72317;
 	background: -webkit-gradient(linear, 0 0, 0 70%, from(#e72317), to(#db1e14));
+	*/
+	
+	background: rgb(240, 37, 24);
+    background: -webkit-gradient(linear, 0 0, 0 70%, from(rgb(185, 33, 23)), to(rgb(226, 66, 57)));
+
 	overflow: hidden;
 }
 .head a, .head a:hover {
