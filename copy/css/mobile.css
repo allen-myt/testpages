@@ -218,7 +218,7 @@ body {
 	background-position: 33px -138px;
 }
 /*
- * å›žé€€æŒ‰é’®
+ * å›žé€€æŒ‰é’�?
  * author:yll;
  * date  :2013-08-11;
  * */
@@ -318,4 +318,10 @@ body {
 }
 .suggest .submit:active , .reset:active{
 	background: #bbb;
+}
+.vip {
+	width:280px;
+	height:140px;
+	margin:auto;
+	background:#66C;
 }
